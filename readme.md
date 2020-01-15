@@ -9,15 +9,6 @@ Keeping track of goods sent and services provided should be a computer's job.
 <img width="950" height="550" src="./screenshots/uml.jpg">
 </div>
 
-## Screenshots
-
-<div style="text-align: center;">
-<img width="950" height="550" src="./screenshots/dashboard.png">
-</div>
-<br>
-<div style="text-align: center;">
-<img width="950" height="550" src="./screenshots/inside-doc.png">
-</div>
 
 ## Features
 
